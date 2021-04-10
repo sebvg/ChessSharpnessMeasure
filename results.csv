@@ -1,0 +1,14 @@
+﻿Position,FEN,A Priori Sharpness,Engine Wobble Stockfish 12,Engine Wobble Stockfish 8,Mean Loss Simulation Threshold=30,"Mean Loss Tree Threshold=30, Depth=6"
+Queen's Indian,rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/1P3NP1/P3PP1P/RNBQKB1R b KQkq - 0 5,Low,15,40,99.93567,29.499839
+Caro Kann Short Variation,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R b KQkq - 1 5,Low,23,86,96.20608,21.339848
+Queen's Gambit Declined Exchange Variation,rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 5,Low,49,83,109.414008,38.005442
+Exchange Caro-Kann,rnbqkbnr/pp2pppp/8/3p4/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4,Low,81,34,81.441558,23.79878
+Four Knights English Opening,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4,Low,57,173,117.118512,33.599216
+Giuoco Piano,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Medium,2,157,117.597056,117.548611
+Accelerated Dragon Maroczy Bind,r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6,Medium,0,47,130.979674,50.394377
+Benko Gambit Fully Accepted,rnbqkb1r/3ppp1p/P4np1/2pP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 6,Medium,58,77,130.83202,52.740375
+Dragon Yugoslav Attack 9.Bc4,r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9,High,54,106,153.977213,48.529409
+Botvinnik Semi-Slav,rnbqkb1r/p4ppp/2p1pn2/1p4B1/2pPP3/2N2N2/PP3PPP/R2QKB1R w KQkq - 0 7,High,54,46,202.147289,222.96875
+Winawer Poisoned Pawn,rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR b KQkq - 1 7,High,90,0,176.6552,64.819824
+Najdorf Poisoned Pawn,rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPPQ2PP/R3KB1R b KQkq - 2 8,High,253,87,222.940284,105.949252
+King's Gambit,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,High,215,105,154.395696,67.258751
